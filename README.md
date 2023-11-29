@@ -3,6 +3,8 @@
 
 LEAVEs, a Visual Novel from 2005, it's the first and last game from [BEKKO.net](https://vndb.org/p576), made using the Visual Novel Engine NScripter.
 
+![Scene from the game.](https://github.com/4k0/LEAVEs/blob/main/arc/event/event05a.jpg)
+
 ## What I used to decompile it?
 
 ###  [NSAOut](http://nscripter.insani.org/downloads/nsaout.zip) 
@@ -29,3 +31,7 @@ LEAVEs, a Visual Novel from 2005, it's the first and last game from [BEKKO.net](
 ```nsaarc.exe -- archives your resources into arc*.nsa format for distribution.```
 
 ```bw2aconv.exe -- simple alpha mask generation program.```
+
+## Related repos
+[ONScripter](https://github.com/insani-org/onscripter-insani),
+[ONScripter-EN](https://github.com/Galladite27/ONScripter-en)
