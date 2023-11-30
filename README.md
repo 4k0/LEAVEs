@@ -1,7 +1,7 @@
 
 # LEAVEs (2005)
 
-LEAVEs, a Visual Novel from 2005, it's the first and last game from [BEKKO.net](https://vndb.org/p576), made using the Visual Novel Engine NScripter.
+LEAVEs, a Visual Novel from 2005, it's the first and last game from [BEKKO.net](https://vndb.org/p576), made using the Visual Novel Engine [NScripter](https://en.wikipedia.org/wiki/NScripter).
 
 ![Scene from the game.](https://github.com/4k0/LEAVEs/blob/main/arc/event/event05a.jpg)
 
